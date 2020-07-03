@@ -47,7 +47,7 @@ To get the 3rd page, you add `&page=3` ... etc
 You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories).
 
 ## Mockups
-![alt text](https://raw.githubusercontent.com/NeobrainMobile/coding-challenge/mockup.png)
+![alt text](https://github.com/NeobrainMobile/coding-challenge/blob/master/mockup.png?raw=true)
 
 Here's what each element represents : 
 
