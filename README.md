@@ -7,9 +7,9 @@ Then land on the main screen that will list the most starred Github repos that w
 You'll be fetching the sorted JSON data directly from the Github API (Github API explained down below). 
 
 ## Requirements:
-Use custom fonts (example : muli)  [https://fonts.google.com/specimen/Muli] 
-The app should have at least 2 screens and a splash screen
-The delivery method must be a git link with the source code
+* Use custom fonts (example : muli)  [https://fonts.google.com/specimen/Muli]
+* The app should have at least 2 screens and a splash screen
+* The delivery method must be a git link with the source code
 
 
 ## Features
