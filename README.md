@@ -1,8 +1,18 @@
 # Neobrain Mobile Coding Challenge
 
 ## Idea of the App 
-The task is to implement a small app that will list the most starred Github repos that were created in the last 30 days. 
+
+Build an app that should start by displaying by Splash screen (available in this repository). 
+Then land on the main screen that will list the most starred Github repos that were created in the last 30 days.
 You'll be fetching the sorted JSON data directly from the Github API (Github API explained down below). 
+
+## Requirements:
+Use “Dio” to make the API requests
+Build a list with pagination of custom rows where you include an image from the network.
+Use custom fonts (example : multi) 
+The app should have at least 2 screens and a splash screen
+The delivery method must be a git link with the source code.
+
 
 ## Features
 * As a User I should be able to list the most starred Github repos that were created in the last 30 days. 
@@ -45,9 +55,6 @@ Here's what each element represents :
 
 
 ## Technologies to use 
-Choose whatever mobile platform you're most familiar with. 
-
-* For iOS, feel free to use Swift or Objective-C. 
-* For Android, feel free to use Kotlin or Java. 
+* Flutter and Dart
 
 
