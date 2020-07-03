@@ -47,15 +47,15 @@ To get the 3rd page, you add `&page=3` ... etc
 You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories).
 
 ## Mockups
-![alt text](https://github.com/NeobrainMobile/coding-challenge/master/mockup.png)
+![alt text](https://raw.githubusercontent.com/NeobrainMobile/coding-challenge/mockup.png)
 
 Here's what each element represents : 
 
-![alt text](https://github.com/NeobrainMobile/coding-challenge/master/row-explained.png)
+![alt text](https://raw.githubusercontent.com/NeobrainMobile/coding-challenge/row-explained.png)
 
 Here's the icon to put on the splashscreen
 
-![alt text](https://github.com/NeobrainMobile/coding-challenge/master/splash_screen_logo.png)
+![alt text](https://raw.githubusercontent.com/NeobrainMobile/coding-challenge/master/splash_screen_logo.png)
 
 
 ## Technologies to use 
