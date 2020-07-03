@@ -13,6 +13,7 @@ The delivery method must be a git link with the source code
 
 
 ## Features
+* As a User I should see a bottom bar ( first section it should list the github repositories, and in the second it should only display a text saying "Settings" in the middle).
 * As a User I should be able to list the most starred Github repos that were created in the last 30 days. 
 * As a User I should see the results as a list. One repository per row. 
 * As a User I should be able to see for each repo/row the following details :
@@ -22,6 +23,7 @@ The delivery method must be a git link with the source code
   * Username and avatar of the owner. 
 * As a User I should see the repository details 
 * [BONUS] As a User I should be able to keep scrolling and new results should appear (pagination).
+* [BONUS] As a User I should be able to click on the repository item and see the details of it (you can use the same widget as the row)
 
 ## Things to keep in mind 🚨
 * Features are less important than code quality. Put more focus on code quality and less on speed and number of features implemented. 
