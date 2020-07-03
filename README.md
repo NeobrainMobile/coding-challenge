@@ -7,11 +7,9 @@ Then land on the main screen that will list the most starred Github repos that w
 You'll be fetching the sorted JSON data directly from the Github API (Github API explained down below). 
 
 ## Requirements:
-Use “Dio” to make the API requests
-Build a list with pagination of custom rows where you include an image from the network.
-Use custom fonts (example : multi) 
+Use custom fonts (example : muli)  [https://fonts.google.com/specimen/Muli] 
 The app should have at least 2 screens and a splash screen
-The delivery method must be a git link with the source code.
+The delivery method must be a git link with the source code
 
 
 ## Features
@@ -22,6 +20,7 @@ The delivery method must be a git link with the source code.
   * Repository description 
   * Numbers of stars for the repo. 
   * Username and avatar of the owner. 
+* As a User I should see the repository details 
 * [BONUS] As a User I should be able to keep scrolling and new results should appear (pagination).
 
 ## Things to keep in mind 🚨
@@ -43,8 +42,7 @@ To get the 2nd page, you add `&page=2` to the end of your API request :
 
 To get the 3rd page, you add `&page=3` ... etc
 
-You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories
-).
+You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories).
 
 ## Mockups
 ![alt text](https://raw.githubusercontent.com/hiddenfounders/mobile-coding-challenge/master/mockup.png)
