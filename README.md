@@ -51,7 +51,7 @@ You can read more about the Github API over [here](https://developer.github.com/
 
 Here's what each element represents : 
 
-![alt text](https://raw.githubusercontent.com/NeobrainMobile/coding-challenge/row-explained.png)
+![alt text](https://github.com/NeobrainMobile/coding-challenge/blob/master/row-explained.png?raw=true)
 
 Here's the icon to put on the splashscreen
 
