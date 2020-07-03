@@ -53,6 +53,10 @@ Here's what each element represents :
 
 ![alt text](https://raw.githubusercontent.com/hiddenfounders/mobile-coding-challenge/master/row-explained.png)
 
+Here's the icon to put on the splashscreen
+
+![alt text](https://raw.githubusercontent.com/hiddenfounders/mobile-coding-challenge/master/splash_screen_logo.png)
+
 
 ## Technologies to use 
 * Flutter and Dart
